@@ -1,0 +1,167 @@
+{
+    "Do What The F*ck You Want To Public License": {
+        "seeAlso": "",
+        "prefLabel": "Do What The F*ck You Want To Public License",
+        "notation": "wtfpl"
+    },
+    "Creative Commons license family": {
+        "seeAlso": "",
+        "prefLabel": "Creative Commons license family",
+        "notation": "cc"
+    },
+    "Apache license 2.0": {
+        "seeAlso": "",
+        "prefLabel": "Apache license 2.0",
+        "notation": "apache-2.0"
+    },
+    "MIT": {
+        "seeAlso": "",
+        "prefLabel": "MIT",
+        "notation": "mit"
+    },
+    "Creative Commons Attribution Share Alike 4.0": {
+        "seeAlso": "",
+        "prefLabel": "Creative Commons Attribution Share Alike 4.0",
+        "notation": "cc-by-sa-4.0"
+    },
+    "Eclipse Public License 1.0": {
+        "seeAlso": "",
+        "prefLabel": "Eclipse Public License 1.0",
+        "notation": "epl-1.0"
+    },
+    "GNU Lesser General Public License family": {
+        "seeAlso": "",
+        "prefLabel": "GNU Lesser General Public License family",
+        "notation": "lgpl"
+    },
+    "GNU General Public License v3.0": {
+        "seeAlso": "",
+        "prefLabel": "GNU General Public License v3.0",
+        "notation": "gpl-3.0"
+    },
+    "Creative Commons Attribution 4.0": {
+        "seeAlso": "",
+        "prefLabel": "Creative Commons Attribution 4.0",
+        "notation": "cc-by-4.0"
+    },
+    "Creative Commons Zero v1.0 Universal": {
+        "seeAlso": "",
+        "prefLabel": "Creative Commons Zero v1.0 Universal",
+        "notation": "cc0-1.0"
+    },
+    "GNU Lesser General Public License v2.1": {
+        "seeAlso": "",
+        "prefLabel": "GNU Lesser General Public License v2.1",
+        "notation": "lgpl-2.1"
+    },
+    "European Union Public License 1.1": {
+        "seeAlso": "",
+        "prefLabel": "European Union Public License 1.1",
+        "notation": "eupl-1.1"
+    },
+    "The Unlicense": {
+        "seeAlso": "",
+        "prefLabel": "The Unlicense",
+        "notation": "unlicense"
+    },
+    "Academic Free License v3.0": {
+        "seeAlso": "",
+        "prefLabel": "Academic Free License v3.0",
+        "notation": "afl-3.0"
+    },
+    "Boost Software License 1.0": {
+        "seeAlso": "",
+        "prefLabel": "Boost Software License 1.0",
+        "notation": "bs1-1.0"
+    },
+    "PostgreSQL License": {
+        "seeAlso": "",
+        "prefLabel": "PostgreSQL License",
+        "notation": "postgresql"
+    },
+    "LaTeX Project Public License v1.3c": {
+        "seeAlso": "",
+        "prefLabel": "LaTeX Project Public License v1.3c",
+        "notation": "lppl-1.3c"
+    },
+    "GNU General Public License v2.0": {
+        "seeAlso": "",
+        "prefLabel": "GNU General Public License v2.0",
+        "notation": "gpl-2.0"
+    },
+    "Open Software License 3.0": {
+        "seeAlso": "",
+        "prefLabel": "Open Software License 3.0",
+        "notation": "osl-3.0"
+    },
+    "BSD 3-clause New or Revised license": {
+        "seeAlso": "",
+        "prefLabel": "BSD 3-clause New or Revised license",
+        "notation": "bsd-3-clause"
+    },
+    "zLib License": {
+        "seeAlso": "",
+        "prefLabel": "zLib License",
+        "notation": "zlib"
+    },
+    "University of Illinois/NCSA Open Source License": {
+        "seeAlso": "",
+        "prefLabel": "University of Illinois/NCSA Open Source License",
+        "notation": "ncsa"
+    },
+    "Artistic license 2.0": {
+        "seeAlso": "",
+        "prefLabel": "Artistic license 2.0",
+        "notation": "artistic-2.0"
+    },
+    "Educational Community License v2.0": {
+        "seeAlso": "",
+        "prefLabel": "Educational Community License v2.0",
+        "notation": "ecl-2.0"
+    },
+    "BSD 3-clause Clear license": {
+        "seeAlso": "",
+        "prefLabel": "BSD 3-clause Clear license",
+        "notation": "bsd-3-clause-clear"
+    },
+    "ISC": {
+        "seeAlso": "",
+        "prefLabel": "ISC",
+        "notation": "isc"
+    },
+    "BSD 2-clause Simplified license": {
+        "seeAlso": "",
+        "prefLabel": "BSD 2-clause Simplified license",
+        "notation": "bsd-2-clause"
+    },
+    "GNU Affero General Public License v3.0": {
+        "seeAlso": "",
+        "prefLabel": "GNU Affero General Public License v3.0",
+        "notation": "agpl-3.0"
+    },
+    "Mozilla Public License 2.0": {
+        "seeAlso": "",
+        "prefLabel": "Mozilla Public License 2.0",
+        "notation": "mpl-2.0"
+    },
+    "SIL Open Font License 1.1": {
+        "seeAlso": "",
+        "prefLabel": "SIL Open Font License 1.1",
+        "notation": "ofl-1.1"
+    },
+    "GNU Lesser General Public License v3.0": {
+        "seeAlso": "",
+        "prefLabel": "GNU Lesser General Public License v3.0",
+        "notation": "lgpl-3.0"
+    },
+    "Microsoft Public License": {
+        "seeAlso": "",
+        "prefLabel": "Microsoft Public License",
+        "notation": "ms-pl"
+    },
+    "GNU General Public License family": {
+        "seeAlso": "",
+        "prefLabel": "GNU General Public License family",
+        "notation": "gpl"
+    }
+}
